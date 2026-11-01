@@ -7,8 +7,11 @@ __pycache__/
 .env
 .env.*
 
-# 個人の学習ログ（第3回の宿題で作成）は共有しない
+# 個人の学習ログは管理対象外
 learning_log/
 
 # macOS
 .DS_Store
+
+# 宿題の個人メモは管理対象外
+lectures/02/homework_memo/*
